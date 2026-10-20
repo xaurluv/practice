@@ -7,5 +7,5 @@ class Number{
 };
 
 class Counter : public Number{
-     
+    
 };
